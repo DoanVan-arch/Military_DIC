@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="tblAVDic.xsd" generated="2018-01-25T20:42:00">
+  <tblAVDic id="0001">
+    <EnTerm>love</EnTerm>
+    <Type>TÍNH TỪ</Type>
+    <VnMean>yêu</VnMean>
+    <Example></Example>i love you</tblAVDic>
+  <tblAVDic id="0002">
+    <EnTerm>abandon</EnTerm>
+    <Type>ĐỘNG TỪ</Type>
+    <VnMean>bỏ;xóa</VnMean>
+    <Example>abandon an attack</Example>
+  </tblAVDic>
+  <tblAVDic id="0003">
+    <EnTerm>confidence</EnTerm>
+    <Type>DANH TỪ</Type>
+    <VnMean>1) sự [độ] tin cậy; 2) bí mật , kín đáo</VnMean>
+    <Example>confidence factor: hệ số tin cậy [xác thực]</Example>
+  </tblAVDic>
+  <tblAVDic id="0006">
+    <EnTerm>Cone</EnTerm>
+    <Type>TÍNH TỪ</Type>
+    <VnMean>1)CÔN, CHÓP, NÓN; PHỄU; 2)VÙNG HÌNH NÓN</VnMean>
+    <Example>blast cone phễu cổ</Example>
+  </tblAVDic>
+  <tblAVDic id="0007">
+    <EnTerm>contain</EnTerm>
+    <Type>ĐỘNG TỪ</Type>
+    <VnMean>kiềm chế, cầm chân</VnMean>
+    <Example></Example>
+  </tblAVDic>
+</dataroot>
